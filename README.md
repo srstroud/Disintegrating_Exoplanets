@@ -1,2 +1,2 @@
 # Disintegrating_Exoplanets
-Astrophysics Lab 1, University of Geneva, Autumn 2019
+University of Geneva | Astrophysics Lab 1 | Autumn 2019
